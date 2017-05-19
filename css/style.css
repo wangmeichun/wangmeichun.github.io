@@ -27,12 +27,13 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	
-  font-size: 2rem;
-  line-height: 3rem;
-  letter-spacing: 12px;
-  text-transform: uppercase;
-  padding-bottom: 8px;
+	font-size: 3rem;
+	line-height: 3rem;
+	letter-spacing: 12px;
+	text-transform: uppercase;
+	padding-bottom: 8px;
+	color: #45A161;
+	font-style: normal;
 }
 
 h2 {
@@ -44,9 +45,10 @@ h2 {
 }
 
 h3 {
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 4px;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	color: #828282;
 }
 
 p {
@@ -58,7 +60,7 @@ p {
 
 #home p,
 #contact p, footer p {
-  color: #f9f9f9;
+	color: #D29C9C;
 }
 
 .btn {
@@ -353,7 +355,7 @@ a:hover, a:active, a:focus {
 
 #home h1 {
 	color: #559FD3;
-	font-size: 4rem;
+	font-size: 5rem;
 }
 
 #home .col-md-8 {
